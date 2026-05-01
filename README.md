@@ -5,21 +5,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
 * 🌱 Learning JavaScript & React
-* ⚡ Improving problem-solving skills
-* 🎯 Goal: Become a full-stack developer
+* ⚡ Improving problem-solving
+* 🎯 Goal: Full Stack Developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
-* React (learning)
+![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge\&logo=git\&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge\&logo=react\&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Suvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=suvels243-wq\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=suvels243-wq\&theme=tokyonight)
 
 ---
 
@@ -29,34 +41,11 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 * 📧 [suvels243@gmail.com](mailto:suvels243@gmail.com)
 * 📍 India
 
 ---
 
-## 🔥 Projects
-
-* 💡 Portfolio Website
-  👉 https://suvels243-wq.github.io/SUVEL-PORTFOLIO/
-
----
-
-⭐ Always learning & building
-
-
-<!--
-**suvels243-wq/suvels243-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning & building 🚀

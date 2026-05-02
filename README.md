@@ -35,6 +35,14 @@
   <img src="https://streak-stats.demolab.com/?user=suvels243-wq&theme=tokyonight" />
 </p>
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvels243-wq/suvels243-wq/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Suvel%20|%20Developer&fontSize=40&fontColor=ffffff" />
+</p>
 ---
 
 ## 🚀 Projects
@@ -49,6 +57,9 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
 </p>
+
+
+
 
 ---
 

@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Suvel</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Suvel;Software+Developer;JavaScript+%7C+Python+%7C+C%2B%2B;Building+Cool+Projects;Always+Learning+🚀" />
+</p><h1 align="center">Hi 👋, I'm Suvel</h1>
 <h3 align="center">🚀 Software Developer | Building Modern Web Experiences</h3>
 
 ---

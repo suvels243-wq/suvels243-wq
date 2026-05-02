@@ -3,42 +3,50 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👨‍💻 About Me
-- 💻 I build responsive & modern web applications  
-- 🚀 Skilled in JavaScript, Python & C++  
-- 🌱 Currently learning full-stack development  
-- ⚡ Focused on clean UI & smooth user experience  
+## 🧑‍💻 About Me
+- 💻 I build **responsive & modern web applications**
+- 🚀 Skilled in **JavaScript, Python & C++**
+- 🌱 Currently learning **Full Stack Development**
+- ⚡ Focused on **clean UI & smooth user experience**
+- 🎯 Goal: Become a **top-level developer & problem solver**
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,git" />
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvels243-wq&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvels243-wq&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suvels243-wq&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=suvels243-wq&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔗 Add your best project here  
-- 🔗 Add 2–3 strong projects only  
+## 🚀 Projects
+- 🔹 Portfolio Website  
+- 🔹 JavaScript Mini Projects  
+- 🔹 Future: Full Stack Apps  
 
 ---
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: (add link)
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+⭐️ *“Consistency beats talent. I build every day.”*

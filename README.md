@@ -15,12 +15,11 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💻 I build **responsive & modern web applications**
-- 🚀 Skilled in **JavaScript, Python & C++**
-- 🌱 Currently learning **Full Stack Development**
-- ⚡ Focused on **clean UI & smooth user experience**
-- 🎯 Goal: Become a **top-level developer**
-
+- 🎓 BCA Student 
+- 💼 Working in IT Administration & Network Engineering
+- 🌐 Interested in Web Development and Software Engineering
+- 🚀 Learning JavaScript, Python and Full Stack Development
+- 🎯 Goal: Build expertise in both IT Infrastructure and Software Development
 ---
 
 ## 🛠️ Tech Stack
